@@ -42,10 +42,6 @@ At the same time, if you select the 'Loop-click every element' option after sele
 <a target="_blank" href="https://get.brightdata.com/enbd"><img src="media/BrightData_EN.png" width=850></img></a>
 [Bright Data](https://get.brightdata.com/enbd) is a leading proxy network with 150M+ IPs worldwide, offering real residential Ips and web unlocker to help you collect public web data at scale with proven, high success rates. For cost-effective proxy access, click the banner above to sign up and reach our Chinese support team—there’s currently a promo that matches your first deposit.
 
-<!-- <a target="_blank" href="http://www.ipidea.net/?utm-source=ycj&utm-keyword=?ycj"><img src="media/IPIDEA.jpg" width=850></img></a>
-
-[IPIDEA](http://www.ipidea.net/?utm-source=ycj&utm-keyword=?ycj)通过全球高质量代理系统和自动化抓取工具，帮助企业解决地理与防护限制，快速精准地获取所需数据，提升采集效率，并为AI大模型训练、跨境电商、市场调研等应用场景提供可靠的数据支持。[IPIDEA](http://www.ipidea.net/?utm-source=ycj&utm-keyword=?ycj)还提供开箱即用的标准化数据集与灵活定制的专属数据采集服务。注册即享免费测试！ -->
-
 <a target="_blank" href="https://dashboard.capsolver.com/passport/register?inviteCode=vjZG0olvd5L3"><img src="media/capsolver.png" width=850></img></a>
 
 [CapSolver](https://dashboard.capsolver.com/passport/register?inviteCode=vjZG0olvd5L3)是CAPTCHA solving领域的Top 3供应商，提供AI驱动的CAPTCHA solving服务，支持reCAPTCHA, Image CAPTCHA, Cloudflare, AWS WAF and more。专为大批量网页爬取、自动化工作流而生，赋能你的AI、BI项目，解码速度最快可<3s，成功率>99%,宕机时间为0，快速的客服支持，全网性价比最高，还可叠加EasySpider的6%专属折扣码：**ESN**。
@@ -59,6 +55,7 @@ Click [here](https://www.capsolver.com/blog/web-scraping/easyspider-capsolver) t
 
 [Webshare](https://www.webshare.io/?referral_code=wk8icux0dunp)是一家经济实惠且高性能的代理服务提供商，提供覆盖全球 195 个国家/地区的超过 8000 万个住宅、数据中心及 ISP 代理。其服务专为大规模网络爬虫和数据采集而设计，支持精确到国家和城市的定位，并提供轮换式住宅代理带宽，起价仅为 1.40 美元/GB。您可以利用包含 10 个代理和每月 1GB 流量的永久免费套餐（无需信用卡）无风险试用该网络，首次购买时使用优惠码 **SPIDER20** 还可享受 8 折优惠。
 
+[Webshare](https://www.webshare.io/?referral_code=wk8icux0dunp) is an affordable, high-performance proxy provider offering access to over 80 million residential, datacenter, and ISP proxies across 195 countries. Built for seamless web scraping and data collection at scale, plans feature precise country and city targeting with rotating residential bandwidth starting at just $1.40/GB. Test the network risk-free with a permanent free plan offering 10 proxies and 1 GB/month (no credit card required), and use code SPIDER20 for 20% off your first purchase.
 
 <a target="_blank" href="https://legionproxy.io/?utm_source=github&utm_campaign=easyspider"><img src="media/LegionProxy.png" width=850></img></a>
 [LegionProxy](https://legionproxy.io/?utm_source=github&utm_campaign=easyspider)作为快速发展的代理网络，覆盖全球195+国家和地区，拥有7400万+真实住宅 IP，提供真实 residential proxies及HTTP/3支持，助力大规模web scraping和自动化任务，有效规避IP封锁。住宅套餐低至$0.60/GB起，支持即时开通，中文客服快速响应。
