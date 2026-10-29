@@ -61,10 +61,13 @@ Click [here](https://www.capsolver.com/blog/web-scraping/easyspider-capsolver) t
 
 [Proxy-Seller](https://proxy-seller.com/?partner=21EDFA4F679F4FE3) provides high-quality Residential, ISP, Datacenter IPv4/IPv6, and Mobile proxies across 195+ locations worldwide. With HTTP(S) and SOCKS5 support, flexible pricing starting at just $0.70 per IP, and 24/7 customer support, Proxy-Seller is an excellent choice for web scraping, data collection, browser automation, and other online tasks. Exclusive 15% Discount - Use Code: **EasySpider666**.
 
-<a target="_blank" href="https://www.thordata.com/?ls=github&lk=NaiboWang"><img src="media/Thordata.jpg" width=850></img></a>
-[Thordata](https://www.thordata.com/?ls=github&lk=NaiboWang)为网页自动化、数据采集和AI工作流提供数据访问服务，包括住宅代理、ISP代理、数据中心代理，以及SERP API和Web Scraper API，覆盖190多个国家和地区。适合EasySpider用户进行公开网页数据采集、自动化测试和数据处理。首次购买使用优惠码**EasySpider10**，可享9折优惠。
+<a target="_blank" href="https://byteful.com/proxy-service/residential-proxies?utm_source=github&utm_medium=github-sponsor&utm_campaign=easyspider_github_sponsorship"><img src="media/Byteful.svg" width=850></img></a>
 
-[Thordata](https://www.thordata.com/?ls=github&lk=NaiboWang) provides data access services for web automation, data collection, and AI workflows, including residential, ISP, and datacenter proxies, as well as SERP API and Web Scraper API services across 190+ countries and regions. It is suitable for EasySpider users working on public-web data collection, automation testing, and data processing. Use promo code **EasySpider10** to get 10% off your first purchase.
+[Byteful](https://byteful.com/proxy-service/residential-proxies?utm_source=github&utm_medium=github-sponsor&utm_campaign=easyspider_github_sponsorship)是一家总部位于英国的网络数据基础设施平台，提供合规采集的住宅代理、移动代理、静态住宅代理（ISP）和数据中心代理，以及面向网页抓取、数据采集和 AI 驱动自动化的 API 优先工具，每月处理数百亿次请求。结账时使用专属优惠码 **EASYSPIDER10**，即可享 9 折优惠，轻松接入我们合规采集的代理网络。该优惠码仅适用于住宅代理流量。
+
+<a target="_blank" href="https://byteful.com/proxy-service/residential-proxies?utm_source=github&utm_medium=github-sponsor&utm_campaign=easyspider_github_sponsorship"><img src="media/Byteful_EN.svg" width=850></img></a>
+
+[Byteful](https://byteful.com/proxy-service/residential-proxies?utm_source=github&utm_medium=github-sponsor&utm_campaign=easyspider_github_sponsorship) is a UK-based web data infrastructure platform providing ethically sourced residential, mobile, static residential (ISP) and datacenter proxies alongside API-first tools for web scraping, data collection, and AI-driven automation, processing tens of billions of requests per month. Get access to our ethically sourced proxy network with an exclusive 10% discount code by using **EASYSPIDER10** at checkout. This code only applies to residential data.
 
 ## 官方网站/Official Website
 
