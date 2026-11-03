@@ -8,7 +8,7 @@ import string
 import threading
 # import undetected_chromedriver as uc
 from utils import detect_optimizable, download_image, extract_text_from_html, get_output_code, isnotnull, lowercase_tags_in_xpath, myMySQL, new_line, \
-    on_press_creator, on_release_creator, readCode, rename_downloaded_file, replace_field_values, send_email, split_text_by_lines, write_to_csv, write_to_excel, write_to_json
+    on_press_creator, on_release_creator, readCode, rename_downloaded_file, replace_field_values, safe_print, send_email, split_text_by_lines, write_to_csv, write_to_excel, write_to_json
 from constants import WriteMode, DataWriteMode, GraphOption
 from myChrome import MyChrome
 from threading import Thread, Event
@@ -345,14 +345,14 @@ class BrowserThread(Thread):
                 # 如果（不）固定元素列表循环中只有一个提取数据操作，且提取数据操作的提取内容为元素截图，那么可以快速提取
                 if len(node["sequence"]) == 1 and self.procedure[node["sequence"][0]]["option"] == 3 \
                         and (int(node["parameters"]["loopType"]) == 1 or int(node["parameters"]["loopType"]) == 2):
-                    params = self.procedure[node["sequence"][0]].get("parameters").get("params")
-                    if not params:
-                        params = self.procedure[node["sequence"][0]]["parameters"]["paras"]  # 兼容0.5.0及以下版本的EasySpider
+                    extract_parameters = self.procedure[node["sequence"][0]]["parameters"]
+                    # An empty current list is valid; use legacy fields only when the key is absent.
+                    params = extract_parameters.get("params", extract_parameters.get("paras"))
 
                     waitElement = self.procedure[node["sequence"][0]]["parameters"].get("waitElement", "")
 
-                    if parameters["iframe"]:
-                        parameters["quickExtractable"] = False  # 如果是iframe，那么不可以快速提取
+                    if parameters["iframe"] or not params:
+                        parameters["quickExtractable"] = False  # iframe或空字段列表不可以快速提取
                     else:
                         parameters["quickExtractable"] = True  # 先假设可以快速提取
 
@@ -558,7 +558,7 @@ class BrowserThread(Thread):
     def print_and_log(self, *args, **kwargs):
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f")
         # 将内容打印到屏幕，立刻输出
-        print(*args, **kwargs, flush=True)
+        safe_print(*args, **kwargs, flush=True)
 
         # 将内容写入文件
         print(now + ":", *args, file=self.logs, **kwargs)
